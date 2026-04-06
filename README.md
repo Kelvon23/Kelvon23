@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning about Unity Engine and C#. I have an interest in backend development.
+I have an interest in data analysis and backend systems.
 
 
 ## 🌐 Socials:
